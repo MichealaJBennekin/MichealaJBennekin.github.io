@@ -70,7 +70,6 @@ section-heading{
 #mainNav .navbar-brand{
   color:#008080
 }
-
 #mainNav .navbar-nav .nav-item .nav-link{
   color:rgba(0,0,0,.7);
   font-weight:800}
@@ -124,7 +123,7 @@ cta .cta-inner{
   position:relative;
   padding:3rem;
   margin:.5rem;
-  background-color:rgba(255,255,255,.85)}
+  background-color:rgba(0,0,0,0)}
 
 .cta .cta-inner:before{border-radius:.5rem;
   content:'';
