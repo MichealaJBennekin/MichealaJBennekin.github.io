@@ -64,7 +64,7 @@ section-heading{
 
 /*--color of the top navigation link bar */
 #mainNav{
-  background-color:#ft38ad;
+  background-color:#fc38ad;
   font-family:Raleway}
 
 #mainNav .navbar-brand{
@@ -117,7 +117,7 @@ section-heading{
 .cta{
   padding-top:5rem;
   padding-bottom:5rem;
-  background-color:#ft38ad;
+  background-color:#fc38ad;
 }.
 
 cta .cta-inner{
@@ -188,7 +188,7 @@ cta .cta-inner{
 
 .btn{box-shadow:0 3px 3px 0 rgba(33,37,41,.1)}
 
-.btn-primary{background-color:#ft38ad;
+.btn-primary{background-color:#fc38ad;
   border-color:#000000
 }
 
