@@ -68,7 +68,7 @@ section-heading{
   font-family:Raleway}
 
 #mainNav .navbar-brand{
-  color:#008080
+  color:#000000;
 }
 #mainNav .navbar-nav .nav-item .nav-link{
   color:rgba(0,0,0,.7);
@@ -194,7 +194,7 @@ cta .cta-inner{
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover{
-  background-color:#df902a;
-  border-color:#df902a
+  background-color:#fc38ad;
+  border-color:#fc38ad;
  }
 .font-weight-light{font-weight:100!important}
